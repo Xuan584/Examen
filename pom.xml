@@ -42,7 +42,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.tu_paquete.Main</mainClass>
+                            <mainClass>com.InterfazLogin</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
